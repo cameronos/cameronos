@@ -27,6 +27,8 @@ Alot of the projects I'm working on might not be listed here yet, but here are m
 #### Workplaces
 - CEO (Chief Executive Officer) of [Orange Computers Ltd.](https://www.facebook.com/orangecomputersltd) (March 2019 - present)
 - COO (Chief Operations Officer) of [RainDrop Technology](https://micronations.wiki/wiki/RainDrop_Technology) (April 2019 - February 2020)
+- CTO (Chief Technical Officer) of [Ecesis Computer Software](https://micronations.wiki/wiki/Ecesis) (December 2021 - present)
+
 #### General
 I am able to plan, develop and maintain a full application stack using the following (and more) technologies:
 <p align="left">
