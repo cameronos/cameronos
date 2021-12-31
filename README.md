@@ -1,16 +1,63 @@
-### Hi there 👋
+<h1 align="center"><img width=20% src="https://github.com/vulture001.png"><br>👋 Hi, I'm <a href="https://vulture001.github.io/" target="_blank">cameron</a></h1>
 
-<!--
-**vulture001/vulture001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <a href="https://www.youtube.com/channel/UCuqOb3W1gMgL0z_RoIeRzfg"><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg" /></a>
+    <a href="https://www.instagram.com/cameronkoehler/"><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" /></a>
+</p>
 
-Here are some ideas to get you started:
+Hello, thanks for visiting. My name is **cameron** (stylized all lowercase), but you might also know me as **vulture001** or **camekommd**.<br>
+I do alot of things on a daily basis, but with software, I'm a **self-taught full stack software engineer** working on various projects.<br>
+Majority of my contributions are private, but I will still try to focus on committing myself to **open-source** projects and libraries!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+
+You can get in touch with me either via Discord (cameron#9361) or [email](mailto:camekommd@gmail.com).<br>
+If you want to find out more about me or my projects, you should have a look at [my website](https://vulture001.github.io/).
+
+### My projects
+
+Alot of the projects I'm working on might not be listed here yet, but here are my best picks that you should check out:
+
+- [Blazonah](https://github.com/vulture001/blazonah), a blazon-input emblazon-output for personal heraldry Discord bot
+- [CameronOS](https://github.com/vulture001/cameronOS), my own operating system created entirely off of C# and the COSMOS initiative
+- Grand Unified Micronational (before 30 June 2021), a website for the biggest intermicronational organization founded in 2009
+- _more to come soon..._
+
+### My skills
+
+I am able to plan, develop and maintain a full application stack using the following (and more) technologies:
+<p align="left">
+    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" />
+    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/css3.svg" />
+    <img height="28" width="28" src="https://iconape.com/wp-content/png_logo_vector/c.png" />
+    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" />
+    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/java.svg" />
+    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" />
+    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cloudflare.svg" />
+    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/ubuntu.svg" />
+    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/windows.svg" />
+</p>
+
+If you have any questions regarding my projects or technologies I use, [get in touch](#contact).
+
+### My goals
+
+Every software engineer oftenly wants to advance their skill set, as do I. Learning new programming languages and strengthening the knowledge of ones I already know is a goal of mine I actively pursue. If my programming skills help people, then I will be happy.
+
+### What I do outside of software
+
+Many things... maybe too many....
+
+Software engineering, for the record, is **NOT** my main profession. Outside of it, I am a full-time analog audio-engineer, and plan to take classes for it. I use reel-to-reel tape, cassette tape, and records frequently, and listen to all kinds of music. It fufills me much more than code does, and it is what I spend majority of my time on.
+
+Here is a small list of everything else I do:
+
+- Herald (Marshal of Arms of the Society of Arms, Gadus King of Arms of Baustralia, and Principal Heraldic Advisor in Kapreburg)
+- Micronational lawyer and judge (Chief Justice of Paloma, Minister of Justice in Yu-Xia)
+- Graphic designer (logos, brands)
+- Analog audio engineering (reels, cassettes, records)
+
+#### Thanks!
+
+Thank you for reading my long dointing monologue about my coding habits. (and other things for that matter) Feel free to dig around my repos.
+Cameron
