@@ -24,7 +24,10 @@ Alot of the projects I'm working on might not be listed here yet, but here are m
 - _more to come soon..._
 
 ### My skills
-
+#### Workplaces
+- CEO (Chief Executive Officer) of [Orange Computers Ltd.](https://www.facebook.com/orangecomputersltd) (March 2019 - present)
+- COO (Chief Operations Officer) of [RainDrop Technology](https://micronations.wiki/wiki/RainDrop_Technology) (April 2019 - February 2020)
+#### General
 I am able to plan, develop and maintain a full application stack using the following (and more) technologies:
 <p align="left">
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" />
@@ -60,5 +63,6 @@ Here is a small list of everything else I do:
 
 #### Thanks!
 
-Thank you for reading my long dointing monologue about my coding habits. (and other things for that matter) Feel free to dig around my repos.
-Cameron
+Thank you for reading my long dointing monologue about my coding habits. (and other things for that matter)<br>Feel free to dig around my repos.<br>
+Cameron<br>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/749686674132566047/919606106068750436/Personal.png" width=20%></p>
