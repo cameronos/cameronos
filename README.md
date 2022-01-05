@@ -59,7 +59,7 @@ Software engineering, for the record, is **NOT** my main profession. Outside of 
 Here is a small list of everything else I do:
 
 - Herald (Marshal of Arms of the Society of Arms, Gadus King of Arms of Baustralia, and Principal Heraldic Advisor in Kapreburg)
-- Micronational lawyer and judge (Chief Justice of Paloma, Minister of Justice in Yu-Xia)
+- Micronational lawyer and judge (<acronym title="current">curr.</acronym> Supreme Justice of the Grand Unified Micronational, Chief Justice of Paloma, Minister of Justice in Yu-Xia)
 - Graphic designer (logos, brands)
 - Analog audio engineering (reels, cassettes, records)
 
