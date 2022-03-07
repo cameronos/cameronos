@@ -5,7 +5,7 @@
     <a href="https://www.instagram.com/cameronkoehler/"><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" /></a>
 </p>
 
-Hello, thanks for visiting. My name is **cameron** (stylized all lowercase), but you might also know me as **vulture001** or **camekommd**.<br>
+Hello, thanks for visiting. My name is **cameron** (stylized all lowercase), but you might also know me as **cameronos**, **vulture001** or **camekommd**.<br>
 I do alot of things on a daily basis, but with software, I'm a **self-taught full stack software engineer** working on various projects.<br>
 Majority of my contributions are private, but I will still try to focus on committing myself to **open-source** projects and libraries!
 
@@ -20,7 +20,7 @@ Alot of the projects I'm working on might not be listed here yet, but here are m
 
 - [Blazonah](https://github.com/vulture001/blazonah), a blazon-input emblazon-output for personal heraldry Discord bot
 - [CameronOS](https://github.com/vulture001/cameronOS), my own operating system created entirely off of C# and the COSMOS initiative
-- Grand Unified Micronational (before 30 June 2021), a website for the biggest intermicronational organization founded in 2009
+- [Grand Unified Micronational](https://grandunifiedmicronational.org/) (deadlink, existed before 30 June 2021), a website for the biggest intermicronational organization founded in 2009
 - _more to come soon..._
 
 ### My skills
