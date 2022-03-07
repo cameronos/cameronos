@@ -12,14 +12,14 @@ Majority of my contributions are private, but I will still try to focus on commi
 ### Contact
 
 You can get in touch with me either via Discord (cameron#9361) or [email](mailto:camekommd@gmail.com).<br>
-If you want to find out more about me or my projects, you should have a look at [my website](https://vulture001.github.io/).
+If you want to find out more about me or my projects, you should have a look at [my website](https://cameronos.github.io/).
 
 ### My projects
 
 Alot of the projects I'm working on might not be listed here yet, but here are my best picks that you should check out:
 
-- [Blazonah](https://github.com/vulture001/blazonah), a blazon-input emblazon-output for personal heraldry Discord bot
-- [CameronOS](https://github.com/vulture001/cameronOS), my own operating system created entirely off of C# and the COSMOS initiative
+- [Blazonah](https://github.com/cameronos/blazonah), a blazon-input emblazon-output for personal heraldry Discord bot
+- [CameronOS](https://github.com/cameronos/cameronOSrepo), my own operating system created entirely off of C# and the COSMOS initiative
 - [Grand Unified Micronational](https://grandunifiedmicronational.org/) (deadlink, existed before 30 June 2021), a website for the biggest intermicronational organization founded in 2009
 - _more to come soon..._
 
