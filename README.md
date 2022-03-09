@@ -18,6 +18,7 @@ If you want to find out more about me or my projects, you should have a look at 
 
 Alot of the projects I'm working on might not be listed here yet, but here are my best picks that you should check out:
 
+- [OptiFine Status](https://github.com/cameronos/optifinestatus), an unofficial website tracking all the outages for the Minecraft modification OptiFine's services
 - [Blazonah](https://github.com/cameronos/blazonah), a blazon-input emblazon-output for personal heraldry Discord bot
 - [CameronOS](https://github.com/cameronos/cameronOSrepo), my own operating system created entirely off of C# and the COSMOS initiative
 - [Grand Unified Micronational](https://grandunifiedmicronational.org/) (deadlink, existed before 30 June 2021), a website for the biggest intermicronational organization founded in 2009
