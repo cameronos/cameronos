@@ -1,4 +1,4 @@
-<h1 align="center"><img width=20% src="https://github.com/cameronos.png"><br>👋 Hi, I'm <a href="https://vulture001.github.io/" target="_blank">cameron</a></h1>
+<h1 align="center"><img width=20% src="https://github.com/cameronos.png"><br>👋 Hi, I'm <a href="https://cameronos.github.io/" target="_blank">cameron</a></h1>
 
 <p align="center">
     <a href="https://www.youtube.com/channel/UCuqOb3W1gMgL0z_RoIeRzfg"><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg" /></a>
