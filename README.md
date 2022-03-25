@@ -29,9 +29,10 @@ Alot of the projects I'm working on might not be listed here yet, but here are m
 - CEO (Chief Executive Officer) of [Orange Computers Ltd.](https://www.facebook.com/orangecomputersltd) (March 2019 - present)
 - COO (Chief Operations Officer) of [RainDrop Technology](https://micronations.wiki/wiki/RainDrop_Technology) (April 2019 - February 2020)
 - CTO (Chief Technical Officer) of [Ecesis Computer Software](https://micronations.wiki/wiki/Ecesis) (December 2021 - present)
+- LSA (Lead Software Architect) of [Flight Simulator Reimagined](#) (deadlink, existed before June 2020) (November 2019 - June 2020)
 
 #### General
-I am able to plan, develop and maintain a full application stack using the following (and more) technologies:
+I am able to plan, develop and maintain a full application stack using the following (and most likely more) technologies:
 <p align="left">
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/css3.svg" />
@@ -49,23 +50,21 @@ If you have any questions regarding my projects or technologies I use, [get in t
 
 ### My goals
 
-Every software engineer oftenly wants to advance their skill set, as do I. Learning new programming languages and strengthening the knowledge of ones I already know is a goal of mine I actively pursue. If my programming skills help people, then I will be happy.
+Learning new programming languages and strengthening my knowledge of ones I already know is a goal I actively pursue. If my programming skills are deemed to be useful in anyway, I've achieved my goals.
 
 ### What I do outside of software
 
-Many things... maybe too many....
-
-Software engineering, for the record, is **NOT** my main profession. Outside of it, I am a full-time analog audio-engineer, and plan to take classes for it. I use reel-to-reel tape, cassette tape, and records frequently, and listen to all kinds of music. It fufills me much more than code does, and it is what I spend majority of my time on.
+Software engineering is **NOT** my main profession. Outside of it, I am a full-time analog audio-engineer, and plan to take classes for it. I use reel-to-reel, cassettes, and records frequently - yes, I listen to all kinds of music. See my collection [here](https://www.discogs.com/user/cameronkoehler001/collection) .It fufills me much more than code does, and it is what I spend majority of my time on.
 
 Here is a small list of everything else I do:
 
-- Herald (Marshal of Arms of the Society of Arms, Gadus King of Arms of Baustralia, and Principal Heraldic Advisor in Kapreburg)
-- Micronational lawyer and judge (Chief Justice of Paloma, Minister of Justice in Yu-Xia)
-- Graphic designer (logos, brands)
 - Analog audio engineering (reels, cassettes, records)
+- Micronational herald (Principal Heraldic Advisor in Kapreburg)
+- Micronational lawyer and judge (Chief Justice of Paloma)
+- Graphic designer (logos, brands)
 
 #### Thanks!
 
-Thank you for reading my long dointing monologue about my coding habits. (and other things for that matter)<br>Feel free to dig around my repos.<br>
+Thank you for reading my long dointing about my coding habits. (and other things for that matter)<br>Feel free to dig around my repos.<br>
 Cameron<br>
 <p align="center"><img src="https://cdn.discordapp.com/attachments/749686674132566047/919606106068750436/Personal.png" width=20%></p>
