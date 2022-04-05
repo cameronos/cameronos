@@ -3,6 +3,7 @@
 <p align="center">
     <a href="https://www.youtube.com/channel/UCuqOb3W1gMgL0z_RoIeRzfg"><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg" /></a>
     <a href="https://www.instagram.com/cameronkoehler/"><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" /></a>
+    <a href="https://twitter.com/cameronos_"><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" /></a>
 </p>
 
 Hello, thanks for visiting. My name is **cameron** (stylized all lowercase), but you might also know me as **cameronos**, **vulture001** or **camekommd**.<br>
