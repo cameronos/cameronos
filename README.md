@@ -28,7 +28,7 @@ Alot of the projects I'm working on might not be listed here yet, but here are m
 #### Workplaces
 - CEO (Chief Executive Officer) of [Orange Computers Ltd.](https://www.facebook.com/orangecomputersltd) (March 2019 - present)
 - COO (Chief Operations Officer) of [RainDrop Technology](https://micronations.wiki/wiki/RainDrop_Technology) (April 2019 - February 2020)
-- CTO (Chief Technical Officer) of [Ecesis Computer Software](https://micronations.wiki/wiki/Ecesis) (December 2021 - present)
+- CTO (Chief Technical Officer) of [Elephant Inc.](https://micronations.wiki/wiki/Ecesis) (December 2021 - present)
 - LSA (Lead Software Architect) of [Flight Simulator Reimagined](#) (deadlink, existed before June 2020) (November 2019 - June 2020)
 
 #### General
@@ -55,13 +55,6 @@ Learning new programming languages and strengthening my knowledge of ones I alre
 ### What I do outside of software
 
 Software engineering is **NOT** my main profession. Outside of it, I am a full-time analog audio-engineer, and plan to take classes for it. I use reel-to-reel, cassettes, and records frequently - yes, I listen to all kinds of music. See my collection [here](https://www.discogs.com/user/cameronkoehler001/collection) .It fufills me much more than code does, and it is what I spend majority of my time on.
-
-Here is a small list of everything else I do:
-
-- Analog audio engineering (reels, cassettes, records)
-- Micronational herald (Principal Heraldic Advisor in Kapreburg)
-- Micronational lawyer and judge (Chief Justice of Paloma)
-- Graphic designer (logos, brands)
 
 #### Thanks!
 
