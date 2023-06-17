@@ -54,7 +54,7 @@ Learning new programming languages and strengthening my knowledge of ones I alre
 
 ### What I do outside of software
 
-Software engineering is **NOT** my main profession. Outside of it, I am a full-time analog audio-engineer, and plan to take classes for it. I use reel-to-reel, cassettes, and records frequently - yes, I listen to all kinds of music. See my collection [here](https://www.discogs.com/user/cameronkoehler001/collection) .It fufills me much more than code does, and it is what I spend majority of my time on.
+Software engineering is **NOT** my main profession. Outside of it, I work as an analog audio-engineer. I use reel-to-reel, cassettes, and records frequently - and yes, I listen to all kinds of music. See my collection [here](https://www.discogs.com/user/cameronkoehler001/collection) .It fufills me much more than code does, and it is what I spend majority of my time on.
 
 #### Thanks!
 
