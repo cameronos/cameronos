@@ -11,7 +11,7 @@ Majority of my contributions are private, but I will still try to focus on commi
 
 ### Contact
 
-You can get in touch with me either via Discord (cameron#9361) or [email](mailto:camekommd@gmail.com).<br>
+You can get in touch with me either via Discord (cameronos) or [email](mailto:camekommd@gmail.com).<br>
 If you want to find out more about me or my projects, you should have a look at [my website](https://cameronos.github.io/).
 
 ### My projects
