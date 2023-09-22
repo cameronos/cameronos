@@ -18,7 +18,6 @@ If you want to find out more about me or my projects, you should have a look at 
 
 Alot of the projects I'm working on might not be listed here yet, but here are my best picks that you should check out:
 
-- [OptiFine Status](https://github.com/cameronos/optifinestatus), an unofficial website tracking all the outages for the Minecraft modification OptiFine's services
 - [Blazonah](https://github.com/cameronos/blazonah), a blazon-input emblazon-output for personal heraldry Discord bot
 - [CameronOS](https://github.com/cameronos/cameronOSrepo), my own operating system created entirely off of C# and the COSMOS initiative
 - [Grand Unified Micronational](https://grandunifiedmicronational.org/) (deadlink, existed before 30 June 2021), a website for the biggest intermicronational organization founded in 2009
@@ -36,14 +35,15 @@ I am able to plan, develop and maintain a full application stack using the follo
 <p align="left">
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/css3.svg" />
-    <img height="28" width="28" src="https://iconape.com/wp-content/png_logo_vector/c.png" />
     <img height="28" width="28" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" />
+    <img height="28" width="28" src="https://iconape.com/wp-content/png_logo_vector/c.png" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/java.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cloudflare.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/ubuntu.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/windows.svg" />
+    <img height="28" width="28" src="https://cameronos.github.io/img/icon/fabricmc.png" />
 </p>
 
 If you have any questions regarding my projects or technologies I use, [get in touch](#contact).
@@ -52,12 +52,8 @@ If you have any questions regarding my projects or technologies I use, [get in t
 
 Learning new programming languages and strengthening my knowledge of ones I already know is a goal I actively pursue. If my programming skills are deemed to be useful in anyway, I've achieved my goals.
 
-### What I do outside of software
-
-Software engineering is **NOT** my main profession. Outside of it, I work as an analog audio-engineer. I use reel-to-reel, cassettes, and records frequently - and yes, I listen to all kinds of music. See my collection [here](https://www.discogs.com/user/cameronkoehler001/collection) .It fufills me much more than code does, and it is what I spend majority of my time on.
-
 #### Thanks!
 
-Thank you for reading my long dointing about my coding habits. (and other things for that matter)<br>Feel free to dig around my repos.<br>
+Thanks for reading around.<br>Feel free to dig around my repos.<br>
 Cameron<br>
 <p align="center"><img src="https://cdn.discordapp.com/attachments/749686674132566047/919606106068750436/Personal.png" width=20%></p>
