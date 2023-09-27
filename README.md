@@ -7,17 +7,18 @@
 
 Hello, thanks for visiting. My name is **cameron** (stylized all lowercase), but you might also know me as **cameronos**, **vulture001** or **camekommd**.<br>
 I do alot of things on a daily basis, but with software, I'm a **self-taught full stack software engineer** working on various projects.<br>
-Majority of my contributions are private, but I will still try to focus on committing myself to **open-source** projects and libraries!
+Majority of my contributions are private, but I will still try to focus on committing myself to **open-source** projects and libraries where I can.
 
 ### Contact
 
-You can get in touch with me either via Discord (cameronos) or [email](mailto:camekommd@gmail.com).<br>
+You can get in touch with me either via the methods listed on my [contact page](https://cameronos.github.io/contact.html) on my website.<br>
 If you want to find out more about me or my projects, you should have a look at [my website](https://cameronos.github.io/).
 
 ### My projects
 
 Alot of the projects I'm working on might not be listed here yet, but here are my best picks that you should check out:
 
+- [Personal website](https://cameronos.github.io), a lightweight personal website outlining what I do, with some games and other things
 - [Blazonah](https://github.com/cameronos/blazonah), a blazon-input emblazon-output for personal heraldry Discord bot
 - [CameronOS](https://github.com/cameronos/cameronOSrepo), my own operating system created entirely off of C# and the COSMOS initiative
 - [Grand Unified Micronational](https://grandunifiedmicronational.org/) (deadlink, existed before 30 June 2021), a website for the biggest intermicronational organization founded in 2009
@@ -25,10 +26,9 @@ Alot of the projects I'm working on might not be listed here yet, but here are m
 
 ### My skills
 #### Workplaces
-- CEO (Chief Executive Officer) of [Orange Computers Ltd.](https://www.facebook.com/orangecomputersltd) (March 2019 - present)
 - COO (Chief Operations Officer) of [RainDrop Technology](https://micronations.wiki/wiki/RainDrop_Technology) (April 2019 - February 2020)
+- CEO (Chief Executive Officer) of [Orange Computers Ltd.](https://www.facebook.com/orangecomputersltd) (March 2019 - present)
 - CTO (Chief Technical Officer) of [Elephant Inc.](https://micronations.wiki/wiki/Ecesis) (December 2021 - present)
-- LSA (Lead Software Architect) of [Flight Simulator Reimagined](#) (deadlink, existed before June 2020) (November 2019 - June 2020)
 
 #### General
 I am able to plan, develop and maintain a full application stack using the following (and most likely more) technologies:
