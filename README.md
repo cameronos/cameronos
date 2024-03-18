@@ -56,4 +56,4 @@ Learning new programming languages and strengthening my knowledge of ones I alre
 
 Thanks for reading around.<br>Feel free to dig around my repos.<br>
 Cameron<br>
-<p align="center"><img src="https://cdn.discordapp.com/attachments/749686674132566047/919606106068750436/Personal.png" width=20%></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/749686674132566047/755577700701176053/Personal_coat_of_arms_of_Cameron_in_regicolis_style.png" width=20%></p>
