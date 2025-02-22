@@ -18,25 +18,27 @@ If you want to find out more about me or my projects, you should have a look at 
 
 Alot of the projects I'm working on might not be listed here yet, but here are my best picks that you should check out:
 
-- [Personal website](https://cameronos.github.io), a lightweight personal website outlining what I do, with some games and other things
-- [Blazonah](https://github.com/cameronos/blazonah), a blazon-input emblazon-output for personal heraldry Discord bot
-- [CameronOS](https://github.com/cameronos/cameronOSrepo), my own operating system created entirely off of C# and the COSMOS initiative
-- [Grand Unified Micronational](https://grandunifiedmicronational.org/) (deadlink, existed before 30 June 2021), a website for the biggest intermicronational organization founded in 2009
+- [Personal website](https://cameronos.github.io), a super lightweight website outlining what I do, with some music and other things
+- [Blazonah](https://github.com/cameronos/blazonah), a JavaScript blazon-input emblazon-output heraldry Discord bot
+- [CameronOS](https://github.com/cameronos/cameronOSrepo), my own operating system written on C.
+- [8bit-bmp-2-c](https://github.com/cameronos/8bit-bmp-2-c), a Python script that takes 8-bit indexed color mode BMPs and turns them into C unsigned char arrays
+- [tons of KTANE mods](https://steamcommunity.com/id/cameronos/myworkshopfiles/), all written in C# and helped expand my Unity workflow
 - _more to come soon..._
 
 ### My skills
 #### Workplaces
-- COO (Chief Operations Officer) of [RainDrop Technology](https://micronations.wiki/wiki/RainDrop_Technology) (April 2019 - February 2020)
+- Lead Programer of [RainDrop Technology](https://micronations.wiki/wiki/RainDrop_Technology) (April 2019 - February 2020)
 - CEO (Chief Executive Officer) of [Orange Computers Ltd.](https://www.facebook.com/orangecomputersltd) (March 2019 - present)
-- CTO (Chief Technical Officer) of [Elephant Inc.](https://micronations.wiki/wiki/Ecesis) (December 2021 - present)
+- Software Developer for [Elephant Inc.](https://micronations.wiki/wiki/Ecesis) (December 2021 - present)
 
 #### General
-I am able to plan, develop and maintain a full application stack using the following (and most likely more) technologies:
+I am able to plan, develop and maintain a full application stack using the following technologies:
 <p align="left">
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/css3.svg" />
     <img height="28" width="28" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" />
     <img height="28" width="28" src="https://iconape.com/wp-content/png_logo_vector/c.png" />
+    <img height="28" width="28" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/java.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" />
@@ -50,10 +52,12 @@ If you have any questions regarding my projects or technologies I use, [get in t
 
 ### My goals
 
-Learning new programming languages and strengthening my knowledge of ones I already know is a goal I actively pursue. If my programming skills are deemed to be useful in anyway, I've achieved my goals.
+I’m focused on learning new programming languages and deepening my knowledge of the ones I already know. 
+Currently, I’m working on building my 32-bit operating system and actively developing mods for video games (mainly KTANE and Minecraft). 
+If my programming skills can be useful in any way, I’ve achieved my goals!!!
 
 #### Thanks!
 
 Thanks for reading around.<br>Feel free to dig around my repos.<br>
 Cameron<br>
-<p align="center"><img src="https://cdn.discordapp.com/attachments/749686674132566047/755577700701176053/Personal_coat_of_arms_of_Cameron_in_regicolis_style.png" width=20%></p>
+<p align="center"><img src="https://i.imgur.com/9C1gKhZ.png" width=20%></p>
