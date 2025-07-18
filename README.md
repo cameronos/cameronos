@@ -45,7 +45,7 @@ I am able to plan, develop and maintain a full application stack using the follo
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cloudflare.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/ubuntu.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/windows.svg" />
-    <img height="28" width="28" src="https://cameronos.github.io/img/icon/fabricmc.png" />
+    <img height="28" width="28" src="https://cameronos.github.io/img/fabricmc.png" />
 </p>
 
 If you have any questions regarding my projects or technologies I use, [get in touch](#contact).
