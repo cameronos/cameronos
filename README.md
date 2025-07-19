@@ -7,7 +7,7 @@
 
 Hello, thanks for visiting. My name is **cameron** (stylized all lowercase), but you might also know me as **cameronos**, **vulture001** or **camekommd**.<br>
 I do alot of things on a daily basis, but with software, I'm a **self-taught full stack software engineer** working on various projects.<br>
-Majority of my contributions are private, but I will still try to focus on committing myself to **open-source** projects and libraries where I can.
+Majority of my contributions are private, but I try to focus on committing myself to **open-sourcing** my projects and video game modifications where I can.
 
 ### Contact
 
@@ -27,7 +27,6 @@ Alot of the projects I'm working on might not be listed here yet, but here are m
 
 ### My skills
 #### Workplaces
-- Lead Programer of [RainDrop Technology](https://micronations.wiki/wiki/RainDrop_Technology) (April 2019 - February 2020)
 - CEO (Chief Executive Officer) of [Orange Computers Ltd.](https://www.facebook.com/orangecomputersltd) (March 2019 - present)
 - Software Developer for [Elephant Inc.](https://micronations.wiki/wiki/Ecesis) (December 2021 - present)
 
